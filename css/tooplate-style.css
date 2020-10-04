@@ -679,6 +679,7 @@ a:hover, a:active, a:focus {
   outline: none;
 }
 
+
 .ion-plus-circled:hover{
   color: #11998e;
   transition-duration: 0.4s;

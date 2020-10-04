@@ -982,4 +982,7 @@ footer .copyright-text {
     padding-left: 10px;
     padding-right: 100px;
   }
+  .team-overlay .social-icon li h1 {
+    font-size: medium;
+  }
 }

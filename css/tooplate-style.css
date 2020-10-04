@@ -951,6 +951,9 @@ footer .copyright-text {
   .team-overlay .social-icon li h1 {
     font-size: large;
   }
+  .todolist{
+    height: 100vh;
+  }
 }
 
 
@@ -972,11 +975,11 @@ footer .copyright-text {
     padding: 5em 0;
   }
   .discussion h3{
-    padding-left: 0px;
-    padding-right: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
   }
   .discussion ul{
-    padding-left: 0px;
-    padding-right: 50px;
+    padding-left: 10px;
+    padding-right: 100px;
   }
 }

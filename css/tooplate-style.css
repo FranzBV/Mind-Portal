@@ -809,7 +809,16 @@ a:hover, a:active, a:focus {
   line-height: 50px;
 }
 
-
+#references{
+  background-color: #ffffff;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 100px;
+  padding-left: 100px;
+}
+#references h1{
+  text-align: center;
+}
 /*---------------------------------------
   FOOTER              
 -----------------------------------------*/
